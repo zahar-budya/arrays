@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\bin\Debug\Arrays1DConsole.exe.config
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\bin\Debug\Arrays1DConsole.exe
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\bin\Debug\Arrays1DConsole.pdb
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\obj\Debug\Arrays1DConsole.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\obj\Debug\Arrays1DConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\obj\Debug\Arrays1DConsole.exe
+C:\Users\User\Desktop\c#\Arrays1DConsole\Arrays1DConsole\obj\Debug\Arrays1DConsole.pdb

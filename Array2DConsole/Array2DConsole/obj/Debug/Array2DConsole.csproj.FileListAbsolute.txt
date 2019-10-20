@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\bin\Debug\Array2DConsole.exe.config
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\bin\Debug\Array2DConsole.exe
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\bin\Debug\Array2DConsole.pdb
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\obj\Debug\Array2DConsole.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\obj\Debug\Array2DConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\obj\Debug\Array2DConsole.exe
+C:\Users\User\Desktop\c#\Array2DConsole\Array2DConsole\obj\Debug\Array2DConsole.pdb

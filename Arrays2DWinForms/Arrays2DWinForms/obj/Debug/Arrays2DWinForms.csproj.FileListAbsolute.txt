@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.exe.config
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.exe
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\bin\Debug\Arrays2DWinForms.pdb
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.Form1.resources
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.Properties.Resources.resources
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.exe
+C:\Users\User\Desktop\c#\Arrays2DWinForms\Arrays2DWinForms\obj\Debug\Arrays2DWinForms.pdb
